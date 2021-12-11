@@ -6,6 +6,7 @@ class App extends Component {
     todos:[
       {id: 1, content: 'Buy some milk'},
       {id: 2, content: 'Play mario Kart'},
+      {id: 3, content: 'Do some code juggling'}
     ]
   }
 
